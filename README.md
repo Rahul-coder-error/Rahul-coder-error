@@ -1,8 +1,8 @@
 # Hi there, I'm Rahul Kumar 👋
 
 <!-- Charts -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-coder-error&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-coder-error&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RahulKumar0920&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar0920&layout=compact" />
 
 <!-- Logos -->
 
