@@ -8,7 +8,7 @@
 
 <!-- Programming Languages -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 <!-- WebDev Basics -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
