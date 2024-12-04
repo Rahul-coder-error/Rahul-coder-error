@@ -7,7 +7,7 @@
 <!-- Logos -->
 
 <!-- Programming Languages -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 <!-- WebDev Basics -->
